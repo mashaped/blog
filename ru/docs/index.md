@@ -1,6 +1,6 @@
 # Блог
 
 ## [Как бесплатно написать чатбота WhatsApp](kak-besplatno-napisat-chatbota-whatsapp.md)
-![Настройки входящих уведомлений](../../assets/kak-besplatno-napisat-chatbota-whatsapp.png "Настройки входящих уведомлений")
+![Как бесплатно написать чатбота WhatsApp](../../assets/kak-besplatno-napisat-chatbota-whatsapp.png)
 
 Рассмотрим какие есть варианты написания чат-бота для мессенджера WhatsApp, выполним сравнение вариантов, а также расскажем как написать и использовать чат-бота WhatsApp бесплатно.
