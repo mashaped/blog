@@ -1,5 +1,5 @@
 site_name: Green API
-repo_name: green-api/docs
+repo_name: green-api/blog
 repo_url: https://github.com/green-api/blog
 edit_uri: edit/master/ru/docs/
 site_dir: build
@@ -9,7 +9,7 @@ nav:
   - "Главная":
     - Главная: "/"
   - "Блог": 
-    - Блог: "index.md"
+    - Блог: "blog.md"
   - "Документация":
     - Документация: "docs/index.html"
 
