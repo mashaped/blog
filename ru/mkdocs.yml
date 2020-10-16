@@ -11,7 +11,7 @@ nav:
   - "Блог": 
     - Блог: "index.md"
   - "Документация":
-    - Документация: "docs/index.html"
+    - Документация: "/docs/index.html"
 
 theme:
   name: material
