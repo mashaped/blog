@@ -8,8 +8,7 @@ site_url: https://green-api.com
 nav:
   - "Главная":
     - Главная: "/"
-  - "Блог": 
-    - Блог: "index.md"
+  - "Блог": "index.md"
   - "Документация":
     - Документация: "/docs/index.html"
 
