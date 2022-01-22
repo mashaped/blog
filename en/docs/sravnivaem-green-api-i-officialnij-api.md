@@ -1,17 +1,17 @@
-# Сравниваем Green API и официальный API
-^^17 сентября 2020 г.^^
+# Compare Green API and official API
+^^September 17, 2020^^
 
 ![Сравниваем Green API и официальный API](assets/sravnivaem-green-api-i-officialnij-api.png)
 
-Как бесплатно подключить мессенджер WhatsApp к вашей учетной системе и начать отправлять сообщения своим клиентам, какие существуют варианты интеграции с мессенджером, преимущества и недостатки каждого варианта рассмотрим далее в этой статье.
+In this article, we will talk about how to connect for free the WhatsApp messenger to your account system and start sending messages to your clients, what options of integration with the messenger exist, pros and cons of each option.
 
-Популярность мессенджера WhatsApp растет, а вместе с ней возрастает потребность коммуникаций бизнеса со своими клиентами. Ранее мы уже рассматривали как использовать WhatsApp для реализации [чат-ботов](kak-besplatno-napisat-chatbota-whatsapp.md). В этой статье рассмотрим какие существуют способы интеграции с мессенджером, их преимущества и недостатки.
+The popularity of the WhatsApp messenger is increasing, along with that the need for business communications with their clients is also going up. A bit earlier we have already discussed how to use WhatsApp for [chatbots](kak-besplatno-napisat-chatbota-whatsapp.md) implementation. This article will cover what methods of integration with the messenger exist, their pros and cons.
 
-Ваша компания растет и отправлять сообщения каждому клиенту вручную становится накладно. Вы уже используете CRM для автоматизации части своих процессов, например "1С", однако по-прежнему взаимодействуете со своими клиентами в ручном режиме. Ручной режим, с одной стороны, отнимает немало времени, а с другой, не позволяет систематизировать и сохранять переписку с каждым клиентом в привязке к услуге, заказу, товару. Со временем, в бесконечном море чатов становится трудно ориентироваться.
+Your company is growing, and sending messages to each client manually becomes cost prohibitive. You do already use CRM to automate part of your business processes, let us say, "1C", but you still interact with your clients in manual mode. Firstly, manual mode takes a lot of time, and secondly, it prevents you from systematizing and saving dialogues with a certain client in relation to a service, order, or product. After a while, the gazillion of chats becomes difficult to navigate.
 
-Правильным решением будет выполнить интеграцию вашей учетной системы с мессенджером WhatsApp. После настройки интеграции вся переписка с клиентами будет доступна из программы, будет упорядочена, и каждый диалог будет привязан к договору, товару, заказу. Появится возможность отправлять информационные рассылки клиентам прямо из базы в автоматическом режиме.
+The proper solution would be to integrate your account system with the WhatsApp messenger. After customizing the integration, all correspondence with clients will be available from the program. It will be well-ordered, and each dialogue will be linked to a contract, product, or order. It will become possible to send newsletters to clients directly from the database in automatic mode.
 
-## Как настроить интеграцию с WhatsApp?
+## How to customize the integration with WhatsApp?
 
 На данный момент существует два способа выполнить интеграцию с мессенджером: ``официальный`` способ и ``неофициальный``. Плюсы и минусы каждого способа рассмотрим далее. Вопрос сравнения официального и неофициального WhatsApp был также рассмотрен нами ранее в статье [Как бесплатно написать чат-бота WhatsApp](kak-besplatno-napisat-chatbota-whatsapp.md).
 
