@@ -1,9 +1,9 @@
 #
 
-## [Сравниваем Green API и официальный API](sravnivaem-green-api-i-officialnij-api.md) 
-^^17 сентября 2020 г.^^
+## [Compare Green API and official API](sravnivaem-green-api-i-officialnij-api.md) 
+^^September 17, 2020^^
 
-![Сравниваем Green API и официальный API](assets/sravnivaem-green-api-i-officialnij-api.png)
+![Compare Green API and official API](assets/sravnivaem-green-api-i-officialnij-api.png)
 
 Как бесплатно подключить мессенджер WhatsApp к вашей учетной системе и начать отправлять сообщения своим клиентам, какие существуют варианты интеграции с мессенджером, преимущества и недостатки каждого варианта рассмотрим далее в этой статье.
 
