@@ -58,8 +58,8 @@ To summarize the above:
 * Total charge, taking into account traffic, is ``1k RUR/month``
 * Access ``within 1 minute``
 * No more than ``5000`` messages per day
-* Вероятность бана ``отсутствует``, за счет системы умных ``фильтров``
+* ``No risk`` of ban, due to the system of smart ``filters``
 
-## Выводы
+## Summing up
 
-Официальный канал WhatsApp Business API хорош и скоростью отправки/приёма сообщений, и безлимитным количеством сообщений в сутки, и красивым названием, и статусом, однако позволить его себе могут далеко не все. Из сравнительного анализа видно, что стоимость обслуживания официального канала суммарно обойдется организации порядка ``80.000 руб/мес``. При этом не будет возможности отправлять своим клиентам маркетинговую информацию. Иными словами, официальный канал WhatsApp использовать для продвижения своих услуг и увеличения продаж не получиться, даже за ``80.000 руб/мес``. Поэтому для небольших организаций, у которых каждый рубль на счету, отличным решением будет использовать сервис Green-API. За абонентскую плату ``690 руб/мес`` вы получаете возможность интегрировать сервисы своей компании с мессенджером WhatsApp, а наша система заботится о стабильности и безопасности интеграции и ``защищает ваш номер`` от блокировки.
+The official WhatsApp Business API channel is good for the speed of sending/receiving messages, and an unlimited number of messages per day, and an advantageous name, and status, but not everyone can afford it. A comparative analysis shows that servicing of the official channel will totally cost the organization about ``80.000 RUR/month``. At the same time, you won’t be able to send marketing information to your clients. In other words, you will fail to use the official WhatsApp channel to promote your services and increase sales, even for ``80.000 RUR/month``. Therefore, to use the Green-API service would be an excellent solution for small companies which try to save every ruble. For ``690 rubles/month`` subscription fee, you get the opportunity to integrate your company's services with the WhatsApp messenger, and our system takes care of the stability and security of integration and ``protects your number`` from ban.
