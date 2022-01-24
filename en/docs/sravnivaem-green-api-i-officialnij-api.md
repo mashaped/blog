@@ -13,33 +13,33 @@ The proper solution would be to integrate your account system with the WhatsApp 
 
 ## How to customize the integration with WhatsApp?
 
-На данный момент существует два способа выполнить интеграцию с мессенджером: ``официальный`` способ и ``неофициальный``. Плюсы и минусы каждого способа рассмотрим далее. Вопрос сравнения официального и неофициального WhatsApp был также рассмотрен нами ранее в статье [Как бесплатно написать чат-бота WhatsApp](kak-besplatno-napisat-chatbota-whatsapp.md).
+At the moment, there are two ways to integrate with the messenger: the ``official`` way and the ``unofficial`` one. Below we will cover the pluses and minuses of each way. The issue of comparing official and unofficial WhatsApp has also been considered in the article [How to write a WhatsApp chatbot for free](kak-besplatno-napisat-chatbota-whatsapp.md).
 
-## WhatsApp Business API (официальный способ интеграции)
+## WhatsApp Business API (official way of integration)
 
-В 2019 году корпорация Facebook опубликовала [WhatsApp Business API](https://developers.facebook.com/docs/whatsapp/) для интеграции со своим мессенджером. Однако подключиться к шлюзу напрямую нельзя, а только через посредников. Список официальных партеров Facebook опубликован на [сайте компании](https://www.facebook.com/business/partner-directory/search?platforms=whatsapp&solution_type=messaging&ref=wa2019t1). Для подключения потребуется оплачивать ежемесячную абонентскую плату, дополнительно оплачивать каждое исходящее сообщение по шаблону, пройти бюрократическую процедуру согласования порядка 2 мес. Дополнительным важным ограничением является запрет на отправку произвольного сообщения. Разрешено отправлять только заранее согласованное шаблонное сообщение. В шаблонных сообщениях нельзя указывать рекламу и использовать их для продвижения. Однако к преимуществам официального канала WhatsApp можно отнести высокую скорость отправки и получения сообщений, неограниченное количество сообщений в сутки, снятие всех рисков блокировки аккаунта, а также возможность бесплатно вести переписку с клиентом в течение 24х часов с момента последнего входящего сообщения от клиента.
+In 2019, Facebook released the [WhatsApp Business API](https://developers.facebook.com/docs/whatsapp/) for integration with its messenger. However, it is impossible to connect to the gateway directly. You can do it only via agents. The list of official Facebook partners has been published on the [company's website](https://www.facebook.com/business/partner-directory/search?platforms=whatsapp&solution_type=messaging&ref=wa2019t1). To get access, you will have to pay a monthly subscription fee, additionally pay for each outgoing template message, go through a bureaucratic approval procedure which will take for about 2 months. One more principal restriction is the prohibition on sending user-defined messages. You may only send a pre-agreed template message. Template messages cannot contain advertising, and you may not use them for promotion. Nevertheless, there are benefits of the official WhatsApp channel that include the high speed of sending and receiving messages, an unlimited number of messages per day, the removal of all risks of account ban, as well as the opportunity to carry on a dialogue with a client for free within 24 hours from the moment of the last incoming message from this client.
 
-## Green-API (неофициальный способ интеграции)
+## Green-API (unofficial way of integration)
 
-До появления официального шлюза WhatsApp Business API бизнес остро нуждался в интеграции с мессенджером. Поэтому на свет и появился сервис [Green-API](https://green-api.com/). Сервис позволяет выполнить интеграцию с WhatsApp и поддерживает все сценарии, которые предусмотрены в официальном канале и даже много больше этих сценариев. Главным преимуществом [Green-API](https://green-api.com/) является полное снятие всех ограничений:
+Before the release of the official WhatsApp Business API gateway, businesses were badly in need of integration with the messenger. . Therefore, the [Green-API](https://green-api.com/) service was developed. С. It allows you to integrate with WhatsApp and supports all the scenarios that are provided in the official channel and offers even more than these scenarios. The main benefit of [Green-API](https://green-api.com/) is the absolute removal of all restrictions:
 
-* можно писать первым любое сообщение, и забыть про шаблоны
-* абонентская плата в 30 раз ниже, чем у официального канала
-* сообщения не тарифицируются, поэтому вам не придется дополнительно что-то оплачивать сверх абонентской платы
-* отсутствует долгая бюрократическая процедура согласования аккаунта
-* можно выполнять информационные и рекламные рассылки по своей базе клиентов
+* you may send any message first and forget about templates
+* subscription fee is 30 times lower than that of the official channel
+* messages are not charged, so you don't have to pay anything extra in excess of the subscription fee
+* there is no long bureaucratic account approval procedure
+* you may send informational and advertising newsletters to clients from your database
 
-Однако использование неофициального шлюза имеет и свои недостатки. Поскольку шлюз неофициальный, то всегда существует риск потерять возможность использовать WhatsApp на вашем номере – иными словами словить бан. Номер телефона можно будет по-прежнему использовать для звонков и отправки SMS, однако использовать номер в приложении WhatsApp будет невозможно, он будет заблокирован.
+At the same time, using an unofficial gateway has its weaknesses. Since the gateway is unofficial, there is always a risk of losing the option to use WhatsApp on your phone number - in other words, getting banned. The phone number can still be used for making calls and sending SMS, but it won’t be possible anymore to use the number for the WhatsApp application, as it will be blocked.
 
-Для любого бизнеса потеря связи со своими клиентами через WhatsApp является недопустимой, поэтому, мы разработали в сервисе систему различных фильтров, которые предохраняют ваш номер от блокировки. [Green-API](https://green-api.com/) не позволит выполнить действия, которые могут привести к риску блокировки. При первых признаках вероятности блокировки система приостановит отправку сообщений и уведомит вашу систему (отправит вебхук).
+Losing contact via WhatsApp with clients is impermissible for any business, that is why, we have developed a system of various filters in our service that protect your number from ban. [Green-API](https://green-api.com/) will not let you perform actions that could lead to the risk of getting blocked. At the first sign of potential blocking, the system will suspend sending messages and notify your system (will send a webhook).
 
-Следует отметить, что за все время работы, начиная с 2017 года, у нас не было ``ни одной блокировки`` номера клиента!
+It should be noted that for the entire period of work, since 2017, we have ``not had a single ban`` of a client number!
 
-Вышесказанное можно обобщить тезисно:
+To summarize the above:
 
 ### WhatsApp Business API
 
-* Отправлять первым можно ``только по шаблону``
+* You may send only ``templates`` first
 * Цена каждого исходящего сообщения по шаблону около ``4 руб``
 * Отправлять сообщения бесплатно разрешено только в ``течение 24х часов`` с момента крайнего входящего сообщения от клиента
 * Нельзя отправлять ``маркетинговые`` сообщения даже за плату
