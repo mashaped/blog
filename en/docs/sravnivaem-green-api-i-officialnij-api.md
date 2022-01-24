@@ -21,7 +21,7 @@ In 2019, Facebook released the [WhatsApp Business API](https://developers.facebo
 
 ## Green-API (unofficial way of integration)
 
-Before the release of the official WhatsApp Business API gateway, businesses were badly in need of integration with the messenger. Therefore, the [Green-API](https://green-api.com/) service was developed. С. It allows you to integrate with WhatsApp and supports all the scenarios that are provided in the official channel and offers even more than these scenarios. The main benefit of [Green-API](https://green-api.com/) is the absolute removal of all restrictions:
+Before the release of the official WhatsApp Business API gateway, businesses were badly in need of integration with the messenger. Therefore, the [Green-API](https://green-api.com/) service has been developed. It allows you to integrate with WhatsApp and supports all the scenarios that are provided in the official channel and offers even more than these scenarios. The main benefit of [Green-API](https://green-api.com/) is the absolute removal of all restrictions:
 
 * you may send any message first and forget about templates
 * subscription fee is 30 times lower than that of the official channel
