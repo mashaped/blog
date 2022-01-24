@@ -40,24 +40,24 @@ To summarize the above:
 ### WhatsApp Business API
 
 * You may send only ``templates`` first
-* Цена каждого исходящего сообщения по шаблону около ``4 руб``
-* Отправлять сообщения бесплатно разрешено только в ``течение 24х часов`` с момента крайнего входящего сообщения от клиента
-* Нельзя отправлять ``маркетинговые`` сообщения даже за плату
-* Цена подписки около ``30к руб/мес``
-* Итоговая цена с учетом трафика около ``80к руб/мес``
-* Оформление документов и подключение ``2 месяца``
-* ``Безлимитное`` количество сообщений в сутки
-* Вероятность бана ``отсутствует``
+* The charge for each outgoing template message is about ``4 RUR``
+* You may send messages for free only ``within 24 hours`` from the moment of the last incoming message from the client
+* You can't send ``marketing`` messages even for a fee
+* Subscription fee is about ``30k RUR/month``
+* Total charge, taking into account traffic, is about ``80k RUR/month``
+* Paperwork and access – ``2 months``
+* ``Unlimited`` number of messages per day
+* ``No risk`` of ban
 
 ### Green-API
 
-* Можно отправлять первым ``любое сообщение``
-* Все исходящие сообщения ``бесплатные``
-* Можно отправлять ``маркетинговые`` сообщения
-* Цена подписки ``1к руб/мес``
-* Итоговая цена с учетом трафика ``1к руб/мес``
-* Подключение ``за 1 минуту``
-* Не более ``5000`` сообщений в сутки
+* You may send ``any message`` first
+* All outgoing messages are ``free of charge``
+* You may send ``marketing`` messages
+* Subscription fee is ``1k RUR/month``
+* Total charge, taking into account traffic, is ``1k RUR/month``
+* Access ``within 1 minute``
+* No more than ``5000`` messages per day
 * Вероятность бана ``отсутствует``, за счет системы умных ``фильтров``
 
 ## Выводы
