@@ -13,7 +13,7 @@ The proper solution would be to integrate your account system with the WhatsApp 
 
 ## How to customize the integration with WhatsApp?
 
-At the moment, there are two ways to integrate with the messenger: the ``official`` way and the ``unofficial`` one. Below we will cover the pluses and minuses of each way. The issue of comparing official and unofficial WhatsApp has also been considered in the article [How to write a WhatsApp chatbot for free](kak-besplatno-napisat-chatbota-whatsapp.md).
+At the moment, there are two ways to integrate with the messenger: the ``official`` way and the ``unofficial`` one. Below we will consider the pluses and minuses of each way. The issue of comparing official and unofficial WhatsApp has also been considered in the article [How to write a WhatsApp chatbot for free](kak-besplatno-napisat-chatbota-whatsapp.md).
 
 ## WhatsApp Business API (official way of integration)
 
