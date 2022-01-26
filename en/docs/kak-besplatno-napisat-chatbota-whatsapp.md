@@ -10,13 +10,13 @@ Nowadays, the issue of developing WhatsApp chatbots is of current interest. What
 It’s obvious that to write a WhatsApp chatbot, you need a gateway, a messenger API. Not that long ago, Facebook released its official gateway - [WhatsApp Business API](https://developers.facebook.com/docs/whatsapp/). However, not everyone can access the WhatsApp Business API gateway. Access to the WhatsApp Business API is available only via official Facebook partners published on the company's [website](https://www.facebook.com/business/partner-directory/search?platforms=whatsapp&solution_type=messaging&ref=wa2019t1).
 
 
-## Какие существуют ограничения WhatsApp Business API
+## WhatsApp Business API limitations
 
-1. Чтобы использовать WhatsApp Business API требуется иметь юрлицо, например, ООО или ИП.
-2. Требуется платить ежемесячную абонентскую плату порядка 30.000 руб/мес.
-3. Требуется пройти длительную бюрократическую процедуру согласования аккаунта организации в facebook – порядка 3-4 недель.
-4. Нельзя отправлять первым что попало, а только шаблонное сообщение, которое также предварительно требуется согласовать с facebook.
-5. Требуется оплачивать каждое исходящие шаблонное сообщение отдельно по цене примерно 4 руб за сообщение.
+1. You must have a legal entity, such as an LLC, or to be an individual entrepreneur, to use the WhatsApp Business API.
+2. You have to pay a monthly subscription fee of about 30.000 RUR/month.
+3. You have to go through a long bureaucratic procedure for approval of the company’s account with Facebook – for about 3-4 weeks.
+4. You can’t send whatever you want first, but only a template message, which is also to be pre-agreed with Facebook.
+5. You have to pay for each outgoing template message apart at a price of approximately 4 RUR per message.
 
 Перечисленные выше ограничения ``ставят крест`` на использовании официального шлюза WhatsApp Business API для написания чатботов индивидуальными программистами и стартаперами. У программиста как правило нет собственного юрлица, да и платить абонентскую плату в размере ``30.000 руб/мес`` возможности нет. А если посчитать стоимость отправки каждого шаблонного сообщения, то при средней нагрузке чатбота суммарная стоимость выйдет порядка ``50.000 руб/мес``. Для стартаперов и начинающих программистов такие издержки не по карману.
 
