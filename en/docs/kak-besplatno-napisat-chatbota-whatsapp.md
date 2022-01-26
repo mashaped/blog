@@ -18,9 +18,9 @@ It’s obvious that to write a WhatsApp chatbot, you need a gateway, a messenger
 4. You can’t send whatever you want first, but only a template message, which is also to be pre-agreed with Facebook.
 5. You have to pay for each outgoing template message apart at a price of approximately 4 RUR per message.
 
-Перечисленные выше ограничения ``ставят крест`` на использовании официального шлюза WhatsApp Business API для написания чатботов индивидуальными программистами и стартаперами. У программиста как правило нет собственного юрлица, да и платить абонентскую плату в размере ``30.000 руб/мес`` возможности нет. А если посчитать стоимость отправки каждого шаблонного сообщения, то при средней нагрузке чатбота суммарная стоимость выйдет порядка ``50.000 руб/мес``. Для стартаперов и начинающих программистов такие издержки не по карману.
+The above limitations ``shut the door`` on the use of the official WhatsApp Business API gateway for writing chatbots by individual programmers and startuppers. A programmer, as a rule, does not have his own legal entity, moreover he doesn’t’ even have an opportunity to pay a subscription fee of ``30.000 RUR/month``. And if one calculates the cost of sending each template message, then the total cost will be for about ``50.000 RUR/month`` at an average chatbot load. Such costs are beyond means for startuppers and entry-level programmers.
 
-## Какие есть альтернативы WhatsApp Business API
+## What are alternatives to WhatsApp Business API
 
 Можно поискать на github различные реализации WhatsApp API. Но к недостаткам такого решения можно отнести то, что придется разбираться в дебрях кода, который собственно не относиться к чатботу. Дополнительно потребуется оплачивать хостинг, чтобы модуль WhatsApp API работал и был доступен через Интернет.
 
