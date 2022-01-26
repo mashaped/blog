@@ -22,13 +22,13 @@ The above limitations ``shut the door`` on the use of the official WhatsApp Busi
 
 ## What are alternatives to WhatsApp Business API
 
-Можно поискать на github различные реализации WhatsApp API. Но к недостаткам такого решения можно отнести то, что придется разбираться в дебрях кода, который собственно не относиться к чатботу. Дополнительно потребуется оплачивать хостинг, чтобы модуль WhatsApp API работал и был доступен через Интернет.
+You can surf github for various WhatsApp API implementations. But one of the disadvantages of this solution is that you would have to see into maze of the code, which isn’t actually relates to the chatbot. Besides, you would have to pay for hosting in order for the WhatsApp API module to be available via the Internet and work.
 
-Также надо понимать, что facebook постоянно вносит изменения в WhatsApp, поэтому библиотеки с github со временем перестают работать. Есть некоторый промежуток времени - день-два, в течение которого библиотека будет в нерабочем состоянии. Иными словами, ваш чатбот не будет работать до тех пор, пока автор кода не выпустит новый патч на github. И такие обновления случаются по три-четыре раза в год и как правило внезапно. Приходится с нетерпением ждать патч в течение нескольких дней. А что, если патч не выйдет?
+You are also to understand that Facebook constantly makes modifications to WhatsApp, so the libraries from github stop working over time. There is a certain period of time - a day or two, during which the library will be out of service. In other words, your chatbot will not work until the author of the code releases a new patch on github. And such updates fall out three or four times a year and they are usually unexpected. So you have to look forward to the patch for a few days. And what if the patch isn’t released ?
 
-Хорошим решением будет использовать сервис GREEN-API для доступа к стабильному и быстрому WhatsApp API. Наш сервис предлагает ``бесплатный тариф для разработчиков``. Можно писать своего чатбота сколь угодно долго и при этом не платить ни копейки. А когда чатбот будет готов, то продать бот клиенту, а клиент уже заплатит.
+A worthy solution would be to use the GREEN-API service to access the stable and fast WhatsApp API. Our service offers ``a free tariff for developers``. You can write your chatbot for as long as you wish and still not pay a penny. And when the chatbot is ready, you may sell it to a client, and it will be the client who will pay.
 
-Оба перечисленных выше способа использования WhatsApp API являются неофициальными. Иными словами, facebook не одобряет такое использование своего продукта и борется с подобного рода сервисами и реализациями.
+Both of the above ways to use the WhatsApp API are unofficial. In other words, Facebook does not approve of such use of its product and combats this sort services and implementations.
 
 ## Какие риски при использовании неофициального шлюза WhatsApp API
 
