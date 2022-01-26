@@ -1,13 +1,13 @@
-# Как бесплатно написать чатбота WhatsApp
-^^10 сентября 2020 г.^^
+# How to write a WhatsApp chatbot for free
+^^September 10, 2020^^
 
 ![Как бесплатно написать чатбота WhatsApp](assets/kak-besplatno-napisat-chatbota-whatsapp.png)
 
-Рассмотрим какие есть варианты написания чат-бота для мессенджера WhatsApp, выполним сравнение вариантов, а также расскажем как написать и использовать чат-бота WhatsApp бесплатно.
+Here we will consider what options there are for writing a chatbot for the WhatsApp messenger, compare the options, and also discuss how to write and use a WhatsApp chatbot for free.
 
-В настоящее время вопрос разработки чатботов WhatsApp является актуальным. Чатботы WhatsApp используются повсеместно и на них есть хороший спрос. Бизнес готов платить за разработку чатботов потому, что чатботы с одной стороны снижают издержки за счет автоматизации части рутинных процессов, с другой стороны чатботы значительно способствуют повышению продаж, т.к. позволяют удерживать клиентов, а также позволяют возвращать своих потерянных клиентов.
+Nowadays, the issue of developing WhatsApp chatbots is of current interest. WhatsApp chatbots are widespread and in good demand. Businesses are ready to pay for the development of chatbots because, on the one hand, chatbots reduce costs by automating some of the everyday processes; on the other hand, chatbots significantly contribute to increasing sales, because they allow you to retain customers, as well as let you return your lost customers.
 
-Для написания чатбота WhatsApp, разумеется, нужен шлюз, программный интерфейс мессенджера. Не так давно компания Facebook опубликовала свой официальный шлюз - [WhatsApp Business API](https://developers.facebook.com/docs/whatsapp/). Однако получить доступ к шлюзу WhatsApp Business API могут далеко не все желающие. Доступ к WhatsApp Business API возможен только через официальных партнёров Facebook, опубликованных на [сайте](https://www.facebook.com/business/partner-directory/search?platforms=whatsapp&solution_type=messaging&ref=wa2019t1) компании.
+It’s obvious that to write a WhatsApp chatbot, you need a gateway, a messenger API. Not that long ago, Facebook released its official gateway - [WhatsApp Business API](https://developers.facebook.com/docs/whatsapp/). However, not everyone can access the WhatsApp Business API gateway. Access to the WhatsApp Business API is available only via official Facebook partners published on the company's [website](https://www.facebook.com/business/partner-directory/search?platforms=whatsapp&solution_type=messaging&ref=wa2019t1).
 
 
 ## Какие существуют ограничения WhatsApp Business API
