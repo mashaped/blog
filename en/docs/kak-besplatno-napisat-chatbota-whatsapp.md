@@ -30,7 +30,7 @@ A worthy solution would be to use the GREEN-API service to access the stable and
 
 Both of the above ways to use the WhatsApp API are unofficial. In other words, Facebook does not approve of such use of its product and combats this sort services and implementations.
 
-## Какие риски при использовании неофициального шлюза WhatsApp API
+## What are the risks when using the unofficial WhatsApp API gateway 
 
 ``Риск один`` - аккаунт воцап будет заблокирован без возможности восстановления. При этом номер телефона останется, можно будет по-прежнему совершать звонки и отправлять SMS, однако использовать воцап на данном номере будет невозможно.
 
