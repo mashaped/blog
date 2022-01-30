@@ -5,11 +5,11 @@
 
 ![Compare Green API and official API](assets/sravnivaem-green-api-i-officialnij-api.png)
 
-Как бесплатно подключить мессенджер WhatsApp к вашей учетной системе и начать отправлять сообщения своим клиентам, какие существуют варианты интеграции с мессенджером, преимущества и недостатки каждого варианта рассмотрим далее в этой статье.
+In this article, we will talk about how to connect for free the WhatsApp messenger to your account system and start sending messages to your clients, what options of integration with the messenger exist, pros and cons of each option.
 
-## [Как бесплатно написать чатбота WhatsApp](kak-besplatno-napisat-chatbota-whatsapp.md) 
-^^10 сентября 2020 г.^^
+## [How to write a WhatsApp chatbot for free](kak-besplatno-napisat-chatbota-whatsapp.md) 
+^^September 10, 2020^^
 
 ![Как бесплатно написать чатбота WhatsApp](assets/kak-besplatno-napisat-chatbota-whatsapp.png)
 
-Рассмотрим какие есть варианты написания чат-бота для мессенджера WhatsApp, выполним сравнение вариантов, а также расскажем как написать и использовать чат-бота WhatsApp бесплатно.
+Here we will consider what options there are for writing a chat bot for the WhatsApp messenger, compare the options, and also discuss how to write and use a WhatsApp chatbot for free.
