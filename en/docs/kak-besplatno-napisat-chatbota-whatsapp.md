@@ -32,13 +32,13 @@ Both of the above ways to use the WhatsApp API are unofficial. In other words, F
 
 ## What are the risks when using the unofficial WhatsApp API gateway 
 
-``Риск один`` - аккаунт воцап будет заблокирован без возможности восстановления. При этом номер телефона останется, можно будет по-прежнему совершать звонки и отправлять SMS, однако использовать воцап на данном номере будет невозможно.
+``The only risk`` is that the WhatAsApp account will be blocked without the opportunity to recover. In this case, the phone number will remain. It will still be possible to make calls and send SMS, at the same time, to use WhatsApp on this number will be impossible.
 
-Однако, если вы пишите чатбота, то в этом случае все риски снимаются. Клиент пишет боту первым. Тем самым клиент косвенно соглашается вступить в диалог с ботом. Если клиент пишет вам первым, то вы никогда не получите бана. Также можно писать первым и самому, но в разумных пределах разумеется.
+However, if you write a chatbot, then all risks are withdrawn. The client writes first to the bot. Thus, he indirectly agrees to enter into a dialogue with the bot. If the client writes to you first, then you will never get banned. You may also write first on your part, but, of course, within reasonable limits.
 
-За всё время работы, начиная с 2017 года, у нас не было ``ни одного бана``, т.к. сервис используется преимущественно для чатботов и для интеграции с различными CRM (1С, Битрикс24, amoCRM и др). Также в нашем сервисе предусмотрен механизм защиты номера от бана. Вы можете быть уверены в том, что ваш номер никогда не заблокируют. Система остановит отправку сообщений и отправит уведомление (вебхук) при первых признаках вероятности бана.
+For the entire period of work, starting from 2017, we have ``not had a single ban``, as the service is used mainly for chatbots and for integration with various CRMs (1C, Bitrix24, amoCRM, etc.). Besides our service has a mechanism for protecting the number against a ban. You can be sure that your number will never be blocked. The system will stop sending messages and send a notification (webhook) at the first sign of a potential ban.
 
-## Вывод
+## Summing up
 
-Писать чат-ботов на официальном WhatsApp Business API могут позволить себе только большие ИТ-компании, которые работают с крупными заказчиками, для которых средний чек для чат-бота в ``50.000 руб/мес`` не составляет проблем. Для мелкого и среднего бизнеса решением будет использовать неофициальный WhatsApp API с риском блокировки аккаунта, но по цене в десять раз ниже. По мере того, как бизнес начнет понимать эффективность чат-бота можно говорить о переходе с неофициального канала на официальный.
-Для индивидуальных разработчиков и стартап-команд, однозначно, лучшим решением является использование неофициальных поставщиков WhatsApp API, тем более риски блокировки номера в нашем сервисе GREEN-API полностью исключены. 
+Only major IT companies that work with large customers, for which the average check for a chatbot of ``50.000 RUR/month`` is not an issue can afford writing chatbots on the official WhatsApp Business API. Small and medium businesses could solve the problem by using an unofficial WhatsApp API with the risk of account blocking, but at a price ten times lower. As the business begins to understand the effectiveness of the chatbot, one may talk about moving from an unofficial channel to an official one. 
+Definitely, for individual developers and startup teams, the best solution is to use unofficial WhatsApp API providers, especially since the risks of number blocking in our GREEN-API service are entirely excluded.
