@@ -1,13 +1,13 @@
 # GREEN API: Blog
 
-Добро пожаловать в репозиторий [блога](https://green-api.com/blog) GREEN API.
+Welcome to the GREEN API [blog](https://green-api.com/blog) repository.
 
-## Про блог
+## About blog
 
-Блог разработан с использованием [MkDocs](https://github.com/mkdocs/mkdocs/).
+The blog is developed using [MkDocs](https://github.com/mkdocs/mkdocs/).
 
-## Как предложить правки
+## How to suggest edits
 
-Если вы заметили опечатку или ошибку создайте pull request (PR) с правками через GitHub.
+If you notice a misprint or an error, create a pull request (PR) with edits via GitHub.
 
 © GREEN API, 2020
